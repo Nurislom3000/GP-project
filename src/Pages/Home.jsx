@@ -34,7 +34,7 @@ const Home = () => {
 				<Section
 					Styles='col-span-2'
 					Text={'40'}
-					Link={'/'}
+					Link={'/info'}
 					Leading={'1'}
 					imgHeight={'560'}
 					imgURL={
@@ -48,7 +48,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'24'}
-						Link={'/'}
+						Link={'/info'}
 						Leading={'1'}
 						imgHeight={'200'}
 						imgURL={
@@ -61,7 +61,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'24'}
-						Link={'/'}
+						Link={'/info'}
 						Leading={'1.33'}
 						imgHeight={'200'}
 						imgURL={
@@ -84,7 +84,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'27'}
-						Link={'/'}
+						Link={'/info'}
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
@@ -98,7 +98,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'27'}
-						Link={'/'}
+						Link={'/info'}
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
@@ -112,7 +112,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'27'}
-						Link={'/'}
+						Link={'/info'}
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
@@ -126,7 +126,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'27'}
-						Link={'/'}
+						Link={'/info'}
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
