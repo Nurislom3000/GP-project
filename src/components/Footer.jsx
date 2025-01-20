@@ -2,17 +2,11 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 import Logo from '../assets/Logo'
 import avatar from '../assets/avatar.jpg'
-import {
-	Instagram,
-	Facebook,
-	LinkedIn,
-	Youtube,
-	X,
-} from '../assets/SocialMedia'
+import SocialMediaIcons from './UI/SocialMediaIcons'
 
 const Footer = () => {
 	return (
-		<div className='mt-[72px] py-[80px] mx-[-120px]'>
+		<div className='mt-[72px] py-[80px] mx-[-80px]'>
 			<div className='mt-[72px] flex items-end justify-between'>
 				<div className='font-main leading-[1.14] text-primary text-[56px] font-medium'>
 					Engage with ideas{' '}
@@ -57,27 +51,7 @@ const Footer = () => {
 					© 2025 Blog Template. All rights reserved.
 				</p>
 
-				<nav className='flex gap-[16px]'>
-					<a href='#'>
-						<Instagram />
-					</a>
-					<a href='#'>
-						{' '}
-						<X />
-					</a>
-					<a href='#'>
-						{' '}
-						<LinkedIn />
-					</a>
-					<a href='#'>
-						{' '}
-						<Facebook />
-					</a>
-					<a href='#'>
-						{' '}
-						<Youtube />
-					</a>
-				</nav>
+				<SocialMediaIcons />
 			</div>
 		</div>
 	)
