@@ -12,9 +12,13 @@ const Section = ({
 	Text,
 }) => {
 	return (
-		<NavLink className={Styles} to={Link} style={{ width: `auto` }}>
-			<div style={{ height: `${imgHeight}px` }}>
-				<img className='w-full h-full rounded-[12px]' src={imgURL} alt='#' />
+		<NavLink className={Styles} to={Link} style={{ width: 'auto' }}>
+			<div style={{ height: `${imgHeight}px`, overflow: 'hidden' }}>
+				<img
+					className='w-full h-full rounded-[12px] object-cover'
+					src={imgURL}
+					alt='#'
+				/>
 			</div>
 			<p
 				style={{

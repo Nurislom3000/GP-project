@@ -30,15 +30,15 @@ const Info = () => {
 					</div>
 				</div>
 
-				<div className='w-[1416px] h-[660px] mt-8'>
+				<div className='w-[1816px] h-[660px] mt-8 overflow-hidden object-cover'>
 					<img
-						className='w-full h-full rounded-xl'
+						className='w-full rounded-xl'
 						src='https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
 						alt='#'
 					/>
 				</div>
 
-				<div className='w-[640px] mt-10'>
+				<div className='w-[1040px] mt-10 font-paprica'>
 					<p className={styleForText}>
 						Black-and-white photography is a timeless art form that transcends
 						trends and technology. By stripping away color, this medium
@@ -59,7 +59,9 @@ const Info = () => {
 					<br />
 					<br />
 					<div>
-						<h5 className='text-[20px]'>Why Black-and-White Photography?</h5>
+						<h5 className='text-[25px] text-red-700 '>
+							Why Black-and-White Photography?
+						</h5>
 						<br />
 						<p>
 							Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid

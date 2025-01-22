@@ -38,10 +38,10 @@ const Home = () => {
 					Leading={'1'}
 					imgHeight={'560'}
 					imgURL={
-						'https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
+						'https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/4ee63f8e-b2d1-453f-a771-1bcce9cc3738/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_showcas_2.jpg'
 					}
 					Date={'May 12, 2021'}
-					Content={'The Art of Black-and-White Photography'}
+					Content={'The Education System (New Regulations and Control) '}
 				/>
 
 				<div>
@@ -52,10 +52,10 @@ const Home = () => {
 						Leading={'1'}
 						imgHeight={'200'}
 						imgURL={
-							'https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
+							'https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/02d93b82-e280-4117-bf8b-c52fbc25ec6b/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_depicti_2.jpg'
 						}
 						Date={'May 12, 2021'}
-						Content={'The Art of Black-and-White Photography'}
+						Content={'The Comparison of UK, Russia, and Uzbekistan Schools'}
 					/>
 					<br />
 					<Section
@@ -65,11 +65,11 @@ const Home = () => {
 						Leading={'1.33'}
 						imgHeight={'200'}
 						imgURL={
-							'https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
+							'https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/a87680e7-d063-484e-814a-3768b184040c/Leonardo_Phoenix_10_A_whimsical_illustration_of_a_person_stand_2.jpg'
 						}
 						Date={'May 12, 2021'}
 						Content={
-							'The Importance of Editing: Polishing Your Work as a Personal'
+							'The University Choices in Future (For 10th/11th Year Students)'
 						}
 					/>
 				</div>
@@ -88,12 +88,10 @@ const Home = () => {
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
-							'https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
+							'https://web.colby.edu/global-elites/files/2016/12/EducationClassWar.jpg'
 						}
 						Date={'May 12, 2021'}
-						Content={
-							"Overcoming Writer's Block: Strategies for Personal Authors"
-						}
+						Content={'The Strengths and Weaknesses of Public/Private Schools'}
 					/>
 					<Section
 						Styles='col-span-1'
@@ -102,10 +100,10 @@ const Home = () => {
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
-							'https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
+							'https://blog.triaster.co.uk/hs-fs/hubfs/images/blog/ContinuousImprovement.jpg?width=690&height=500&name=ContinuousImprovement.jpg'
 						}
 						Date={'May 12, 2021'}
-						Content={'Crafting a Personal Brand as an Author: Tips for Success'}
+						Content={'The Improvement in Education System Throughout the Years'}
 					/>
 				</div>
 				<div className='grid gap-x-[56px] grid-cols-2 mt-[56px]'>
@@ -116,11 +114,11 @@ const Home = () => {
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
-							'https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
+							'https://www.simplypsychology.org/wp-content/uploads/proletariat-revolution.jpeg'
 						}
 						Date={'May 12, 2021'}
 						Content={
-							'The Art of Writing: How Personal Authors Find Inspiration Everywhere'
+							"The Changes Students Want to See in the Country's Education System"
 						}
 					/>
 					<Section
@@ -130,11 +128,11 @@ const Home = () => {
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
-							'https://i0.wp.com/picjumbo.com/wp-content/uploads/camping-on-top-of-the-mountain-during-sunset-free-photo.jpg?w=600&quality=80'
+							'https://alumni.arizona.edu/sites/default/files/styles/az_large/public/2022-07/is_your_idea_innovative.jpeg.webp?itok=F6C-r8q2'
 						}
 						Date={'May 12, 2021'}
 						Content={
-							'The Journey of a Personal Author: Crafting Stories and Building Connections'
+							'Additional Specific Questions on Education (Extracurricular Activities, Parental Support, etc.)'
 						}
 					/>
 				</div>
