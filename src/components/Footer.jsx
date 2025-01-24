@@ -7,7 +7,7 @@ import SocialMediaIcons from './UI/SocialMediaIcons'
 const Footer = () => {
 	return (
 		<div className='mt-[72px] py-[80px] mx-[-80px]'>
-			<div className='mt-[72px] flex items-end justify-between'>
+			{/* <div className='mt-[72px] flex items-end justify-between'>
 				<div className='font-main leading-[1.14] text-primary text-[56px] font-medium'>
 					Engage with ideas{' '}
 					<span className='text-[#a0a0a0]'>
@@ -21,7 +21,7 @@ const Footer = () => {
 					</span>{' '}
 					fuel inspiration and connection
 				</div>
-			</div>
+			</div> */}
 			<div className='py-[16px] mt-[80px] flex justify-between items-center'>
 				<NavLink to='/' className='flex gap-[8px]'>
 					<Logo />

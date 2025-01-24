@@ -8,15 +8,9 @@ const Home = () => {
 		<div>
 			<div className='mt-[72px] flex items-end justify-between'>
 				<div className='font-main leading-[1.14] text-primary text-[56px] font-medium'>
-					Engage with ideas{' '}
-					<span className='text-[#a0a0a0]'>
-						that spark change and <br /> creativity. Stay informed on
-					</span>
-					what’s shaping <br /> the world around you.{' '}
-					<span className='text-[#a0a0a0]'>
-						Discover the stories <br /> that
-					</span>{' '}
-					fuel inspiration and connection
+					Knowledge bridges divides and <br />
+					opens doors to endless possibilities. Share <br /> the power of
+					learning for a brighter world.
 				</div>
 				<div className='gap-[16px] flex items-center'>
 					<img
@@ -25,7 +19,7 @@ const Home = () => {
 						alt='#'
 					/>
 					<span className='font-poppins text-[18px] font-medium text-secondary'>
-						Amna
+						Nurislom
 					</span>
 				</div>
 			</div>
