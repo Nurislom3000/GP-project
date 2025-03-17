@@ -14,7 +14,7 @@ const JustBlock = () => {
 				allowfullscreen
 			></iframe>
 			<div className='w-1/2 font-paprica'>
-				<h4 className='font-main text-[35px] font-bold'>Hello</h4>
+				<h4 className='font-main text-[35px] font-bold'>Hello everyone</h4>
 				<br />
 				<p className={styleForText + ' leading-8 text-[17px]'}>
 					Black-and-white photography is a timeless art form that transcends
