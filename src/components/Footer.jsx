@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom'
 import Logo from '../assets/Logo'
 import avatar from '../assets/avatar.jpg'
 import SocialMediaIcons from './UI/SocialMediaIcons'
+import Avatar from './UI/Avatar'
 
 const Footer = () => {
 	return (
@@ -14,7 +15,7 @@ const Footer = () => {
 						that spark change and creativity. Stay <br />
 						informed on
 					</span>
-					what’s shaping the world around you.{' '}
+					what's shaping the world around you.{' '}
 					<span className='text-[#a0a0a0]'>
 						Discover
 						<br /> the stories that
@@ -29,27 +30,13 @@ const Footer = () => {
 						Blog Template
 					</h5>
 				</NavLink>
-				<div className='gap-[16px] flex items-center'>
-					<img
-						className='w-[56px] h-[56px] rounded-full'
-						src={avatar}
-						alt='#'
-					/>
-					<span className='font-poppins text-[18px] font-medium text-secondary'>
-						Amna
-					</span>
-				</div>
+				<Avatar src={avatar} name='Amna' />
 			</div>
 
-			<div className=' mt-[32px] w-full h-[1px] bg-[#a0a0a0] opacity-50'></div>
+			<div className='mt-[32px] w-full h-[1px] bg-[#a0a0a0] opacity-50'></div>
 
-			<div className='mt-[32px]  flex justify-between items-center'>
-				<p
-					style={{ fontWeight: '400' }}
-					className='text-[14px] leading-[1.5] text-primary'
-				>
-					© 2025 Blog Template. All rights reserved.
-				</p>
+			<div className='mt-[32px] flex justify-between items-center'>
+				<p className='text-small'>© 2025 Blog Template. All rights reserved.</p>
 
 				<SocialMediaIcons />
 			</div>

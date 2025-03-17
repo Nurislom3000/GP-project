@@ -27,16 +27,11 @@ const Section = ({
 					fontSize: `${Text}px`,
 					fontWeight: '500',
 				}}
-				className=' font-main text-primary'
+				className='text-primary-medium'
 			>
 				{Content}
 			</p>
-			<p
-				style={{ fontWeight: '400' }}
-				className='mt-[12px] text-[24px] text-secondary'
-			>
-				{Date}
-			</p>
+			<p className='mt-[12px] text-small'>{Date}</p>
 		</NavLink>
 	)
 }

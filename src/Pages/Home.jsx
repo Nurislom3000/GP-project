@@ -1,34 +1,25 @@
 import React from 'react'
-
 import avatar from '../assets/avatar.jpg'
 import Section from '../components/Section'
+import Avatar from '../components/UI/Avatar'
 
 const Home = () => {
 	return (
 		<div>
 			<div className='mt-[72px] flex items-end justify-between'>
-				<div className='font-main leading-[1.14] text-primary text-[56px] font-medium'>
+				<div className='text-primary-large'>
 					Knowledge bridges divides and <br />
 					opens doors to endless possibilities. Share <br /> the power of
 					learning for a brighter world.
 				</div>
-				<div className='gap-[16px] flex items-center'>
-					<img
-						className='w-[56px] h-[56px] rounded-full'
-						src={avatar}
-						alt='#'
-					/>
-					<span className='font-poppins text-[18px] font-medium text-secondary'>
-						Nurislom
-					</span>
-				</div>
+				<Avatar src={avatar} name='Nurislom' />
 			</div>
 
 			<div className='mt-[56px] grid gap-x-[56px] grid-cols-3 justify-between'>
 				<Section
 					Styles='col-span-2'
 					Text={'40'}
-					Link={'/info'}
+					Link={'/educationSystem'}
 					Leading={'1'}
 					imgHeight={'560'}
 					imgURL={
@@ -42,7 +33,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'24'}
-						Link={'/info'}
+						Link={'/comparison'}
 						Leading={'1'}
 						imgHeight={'200'}
 						imgURL={
@@ -69,7 +60,7 @@ const Home = () => {
 				</div>
 			</div>
 
-			<div className='flex justify-center mt-[56px] text-primary font-main text-[48px] leading-[1.33] font-semibold'>
+			<div className='flex justify-center mt-[56px] text-primary-large'>
 				Latest Post
 			</div>
 

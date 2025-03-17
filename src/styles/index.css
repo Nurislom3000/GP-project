@@ -25,3 +25,33 @@
 .font-gotica {
 	font-family: 'UnifrakturCook', serif;
 }
+
+@layer components {
+	.text-primary-large {
+		@apply font-main text-[56px] font-medium leading-[1.14] text-primary;
+	}
+
+	.text-primary-medium {
+		@apply font-main text-[40px] font-medium leading-[1.14] text-primary;
+	}
+
+	.text-secondary-style {
+		@apply font-poppins text-[18px] font-medium text-secondary;
+	}
+
+	.text-body {
+		@apply font-normal text-[20px] leading-6 text-gray-600;
+	}
+
+	.text-small {
+		@apply text-[14px] leading-[1.5] text-primary;
+	}
+
+	.avatar-container {
+		@apply gap-[16px] flex items-center;
+	}
+
+	.avatar-image {
+		@apply w-[56px] h-[56px] rounded-full;
+	}
+}
