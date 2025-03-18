@@ -4,7 +4,7 @@ import SocialMediaIcons from '../../components/UI/SocialMediaIcons'
 import JustBlock from '../../components/UI/JustBlock'
 import Avatar from '../../components/UI/Avatar'
 
-const EducationSystem = () => {
+const ImprovementOfSchools = () => {
 	return (
 		<div className='mt-[72px]'>
 			<div className='flex flex-col items-center justify-start'>
@@ -27,7 +27,7 @@ const EducationSystem = () => {
 				<div className='w-[1716px] h-[660px] mt-8 overflow-hidden object-cover'>
 					<img
 						className='w-full rounded-xl'
-						src='https://cdn.vysokeskoly.cz/czech-universities/uploads/2023/06/stack-books-with-laptop-wooden-table-kopie.jpg'
+						src='https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/4ee63f8e-b2d1-453f-a771-1bcce9cc3738/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_showcas_2.jpg'
 						alt='#'
 					/>
 				</div>
@@ -51,20 +51,7 @@ const EducationSystem = () => {
 				</div>
 
 				<JustBlock
-					videoLink='https://www.youtube.com/embed/_totk4S0wkk?si=aDAjoelPBQsK089E'
-					title='Hello everyone'
-					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
-				/>
-				<div className='w-full h-1 mt-[100px]'></div>
-				<JustBlock
-					isRight={true}
-					videoLink='https://www.youtube.com/embed/I8C4Wj_dHv4?si=TX-Lz_Orkko4q22Q'
-					title='Hello everyone'
-					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
-				/>
-				<div className='w-full h-1 mt-[100px]'></div>
-				<JustBlock
-					videoLink='https://www.youtube.com/embed/AOJ-LOqzz-I'
+					videoLink='https://www.youtube.com/shorts/g6PMSFkpIQs?feature=share'
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>
@@ -73,4 +60,4 @@ const EducationSystem = () => {
 	)
 }
 
-export default EducationSystem
+export default ImprovementOfSchools

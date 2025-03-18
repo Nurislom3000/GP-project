@@ -15,7 +15,7 @@ const Section = ({
 		<NavLink className={Styles} to={Link} style={{ width: 'auto' }}>
 			<div style={{ height: `${imgHeight}px`, overflow: 'hidden' }}>
 				<img
-					className='w-full h-full rounded-[12px] object-cover'
+					className='w-full h-full rounded-[12px] object-cover border-[2px] border-solid border-gray-500'
 					src={imgURL}
 					alt='#'
 				/>

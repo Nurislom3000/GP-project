@@ -23,7 +23,7 @@ const Home = () => {
 					Leading={'1'}
 					imgHeight={'560'}
 					imgURL={
-						'https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/4ee63f8e-b2d1-453f-a771-1bcce9cc3738/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_showcas_2.jpg'
+						'https://images.squarespace-cdn.com/content/v1/5b65d763fcf7fd7d0c65108e/1619393744252-Y9NAJNM8R1CGMIMGSIRH/Fixing+the+American+public+school+system.jpg?format=1000w'
 					}
 					Date={'May 12, 2021'}
 					Content={'The Education System (New Regulations and Control) '}
@@ -81,7 +81,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'27'}
-						Link={'/info'}
+						Link={'/improvementOfSchools'}
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={
