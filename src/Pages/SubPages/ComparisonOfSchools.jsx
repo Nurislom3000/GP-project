@@ -27,7 +27,7 @@ const ComparisonOfSchools = () => {
 				<div className='w-[1716px] h-[660px] mt-8 overflow-hidden object-cover'>
 					<img
 						className='w-full rounded-xl'
-						src='https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/4ee63f8e-b2d1-453f-a771-1bcce9cc3738/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_showcas_2.jpg'
+						src='https://i0.wp.com/s3.us-east-2.amazonaws.com/media.nationofchange.org/wp-content/uploads/2016/10/26181710/education.jpg?fit=1000%2C485&ssl=1'
 						alt='#'
 					/>
 				</div>
@@ -59,6 +59,12 @@ const ComparisonOfSchools = () => {
 				<JustBlock
 					isRight={true}
 					videoLink='https://www.youtube.com/embed/OAuJMYYQCqQ?si=AIZeN8LYx2kOJaoe'
+					title='Hello everyone'
+					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
+				/>
+				<div className='w-full h-1 mt-[100px]'></div>
+				<JustBlock
+					videoLink='https://www.youtube.com/embed/47eXbTVTJjI?si=PF31klB6EbRun5OY'
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>

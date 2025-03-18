@@ -52,15 +52,21 @@ const UnivercityChoice = () => {
 
 				<JustBlock
 					videoLink='https://www.youtube.com/embed/NJfVHsbHBsc?si=tkzoyxQiFkHPzt29'
-					title='Hello everyone'
-					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
+					title='What are your university aspirations?'
+					text='Students claim that they do have big plants on their future education however, school does not provide enough materials enough opportunities to students prepare for their university exams. The second student argues that the preparation should be from person himself and all depends on one person you.'
 				/>
 				<div className='w-full h-1 mt-[100px]'></div>
 				<JustBlock
 					isRight={true}
 					videoLink='https://www.youtube.com/embed/MJczFgQGqv0?si=8GmJcTp6I_gOKfE5'
-					title='Hello everyone'
-					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
+					title='Are you planning to study abroad?'
+					text='Two students have to different points of views. One of them want to get in Oxford and Westminster universities , however he is concerned about he’s language barrier. The second student argues and tell that MGU which is located in Russia provides even more opportunities.'
+				/>
+				<div className='w-full h-1 mt-[100px]'></div>
+				<JustBlock
+					videoLink='https://www.youtube.com/embed/lcVHmLnxbrk?si=J7TcY3hy9RzBEwFD'
+					title='Univercity (Russian perspective)'
+					text='The school does prepare him to 10 and 11 class. They have government exams which are called ОГЭ and ЕГЭ. They study a topic at school  and then take homework based on what they will have in their real exams'
 				/>
 			</div>
 		</div>

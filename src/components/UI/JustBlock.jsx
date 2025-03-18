@@ -30,9 +30,7 @@ const JustBlock = ({ videoLink, title, text, isRight }) => {
 			<div className={`w-1/2 font-paprica flex flex-col items-center`}>
 				<h4 className='text-primary-medium'>{title}</h4>
 				<br />
-				<p className={`text-body leading-8 ${isRight ? 'text-center' : ''}`}>
-					{text}
-				</p>
+				<p className={`text-body leading-8 text-center`}>{text}</p>
 			</div>
 			{isRight == true ? (
 				<iframe

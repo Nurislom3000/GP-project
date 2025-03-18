@@ -55,6 +55,13 @@ const ImprovementOfSchools = () => {
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>
+				<div className='w-full h-1 mt-[100px]'></div>
+				<JustBlock
+					isRight={true}
+					videoLink='https://www.youtube.com/embed/KKNuO6Zt2SU?si=2WIK4N2gYG3Gl-tW'
+					title='Education improvement (Russian perspective)'
+					text='He says that the education system became harder and if in the past every person could freely get in every university and school, but now it is more stricter. In his point of view “if the education system becomes harder it improves”'
+				/>
 			</div>
 		</div>
 	)

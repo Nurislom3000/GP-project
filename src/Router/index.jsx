@@ -6,6 +6,7 @@ import ComparisonOfSchools from '../Pages/SubPages/ComparisonOfSchools'
 import UnivercityChoice from '../Pages/SubPages/UnivercityChoice'
 import ChangesYouWantToSee from '../Pages/SubPages/ChangesYouWantToSee'
 import ImprovementOfSchools from '../Pages/SubPages/ImprovementOfSchools'
+import PublicAndPrivat from '../Pages/SubPages/PublicAndPrivat'
 
 const router = () => {
 	return (
@@ -16,6 +17,7 @@ const router = () => {
 			<Route path='/univercityChoice' element={<UnivercityChoice />} />
 			<Route path='/changesYouWantToSee' element={<ChangesYouWantToSee />} />
 			<Route path='/improvementOfSchools' element={<ImprovementOfSchools />} />
+			<Route path='/publicAndPrivat' element={<PublicAndPrivat />} />
 		</Routes>
 	)
 }

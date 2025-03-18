@@ -55,6 +55,13 @@ const ChangesYouWantToSee = () => {
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>
+				<div className='w-full h-1 mt-[100px]'></div>
+				<JustBlock
+					isRight={true}
+					videoLink='https://www.youtube.com/embed/9LxwM0ZkLa8?si=3PUGsUcBnP5TcksU'
+					title='Changes that Russian student wants to see'
+					text='Schools should prioritize improving meal quality by using fresher, healthier, and higher-quality ingredients. Many students reportedly attend school primarily for the food, making it essential to ensure meals are both nutritious and enjoyable. Enhancing food standards would support students health and contribute to a better learning environment.'
+				/>
 			</div>
 		</div>
 	)

@@ -37,10 +37,10 @@ const Home = () => {
 						Leading={'1'}
 						imgHeight={'200'}
 						imgURL={
-							'https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/02d93b82-e280-4117-bf8b-c52fbc25ec6b/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_depicti_2.jpg'
+							'https://i0.wp.com/s3.us-east-2.amazonaws.com/media.nationofchange.org/wp-content/uploads/2016/10/26181710/education.jpg?fit=1000%2C485&ssl=1'
 						}
 						Date={'May 12, 2021'}
-						Content={'The Comparison of UK, Russia, and Uzbekistan Schools'}
+						Content={'The Comparison of schools'}
 					/>
 					<br />
 					<Section
@@ -69,7 +69,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'27'}
-						Link={'/info'}
+						Link={'/publicAndPrivat'}
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={

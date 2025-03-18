@@ -52,21 +52,28 @@ const EducationSystem = () => {
 
 				<JustBlock
 					videoLink='https://www.youtube.com/embed/_totk4S0wkk?si=aDAjoelPBQsK089E'
-					title='Hello everyone'
-					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
+					title='Education system (students perspective)'
+					text='Students from public school claims that education system in Uzbekistan was changed but had an inefficient start , for now government is trying to change and make some new laws which will help to progress our education. By contrast , the second student is talking about new regulations the things as electronic diaries and frequency of classes. However , some things don’t make up together , so our government and school are collaborating to stop this problem'
 				/>
 				<div className='w-full h-1 mt-[100px]'></div>
 				<JustBlock
 					isRight={true}
 					videoLink='https://www.youtube.com/embed/I8C4Wj_dHv4?si=TX-Lz_Orkko4q22Q'
-					title='Hello everyone'
-					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
+					title='What changes did Uzbekistan see in education'
+					text='The student informs us about a new platform named “serebri “ , which was brought in not a long time ago and it is a set of questions that prepares you to international PIZA exam which checks your maths , Russian and literature skills. The second student believes that if it will go so on like this and our education will continue developing , our economy will see a growth'
 				/>
 				<div className='w-full h-1 mt-[100px]'></div>
 				<JustBlock
 					videoLink='https://www.youtube.com/embed/AOJ-LOqzz-I'
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
+				/>
+				<div className='w-full h-1 mt-[100px]'></div>
+				<JustBlock
+					isRight={true}
+					videoLink='https://www.youtube.com/embed/zEqe_sreanU?si=3_WubnmK3nWEnMGB'
+					title='Education system (Russia perspective)'
+					text='Boy from Russia describes the education system there. There is kindergarten , school , upper school and university. You can get there either by passing exams which will give you free education , or you can pay. He also says that exams get also harder and harder'
 				/>
 			</div>
 		</div>
