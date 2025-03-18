@@ -4,7 +4,7 @@ import SocialMediaIcons from '../../components/UI/SocialMediaIcons'
 import JustBlock from '../../components/UI/JustBlock'
 import Avatar from '../../components/UI/Avatar'
 
-const ComparisonOfSchools = () => {
+const ChangesYouWantToSee = () => {
 	return (
 		<div className='mt-[72px]'>
 			<div className='flex flex-col items-center justify-start'>
@@ -51,14 +51,7 @@ const ComparisonOfSchools = () => {
 				</div>
 
 				<JustBlock
-					videoLink='https://www.youtube.com/embed/pcJkHxhJiro?si=PcqIzQkA2ZwcUcyd'
-					title='Hello everyone'
-					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
-				/>
-				<div className='w-full h-1 mt-[100px]'></div>
-				<JustBlock
-					isRight={true}
-					videoLink='https://www.youtube.com/embed/OAuJMYYQCqQ?si=AIZeN8LYx2kOJaoe'
+					videoLink='https://www.youtube.com/shorts/MmyEJ1zuhpM?feature=share'
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>
@@ -67,4 +60,4 @@ const ComparisonOfSchools = () => {
 	)
 }
 
-export default ComparisonOfSchools
+export default ChangesYouWantToSee

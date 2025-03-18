@@ -46,7 +46,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'24'}
-						Link={'/info'}
+						Link={'/univercityChoice'}
 						Leading={'1.33'}
 						imgHeight={'200'}
 						imgURL={
@@ -95,7 +95,7 @@ const Home = () => {
 					<Section
 						Styles='col-span-1'
 						Text={'27'}
-						Link={'/info'}
+						Link={'/changesYouWantToSee'}
 						Leading={'1.33'}
 						imgHeight={'480'}
 						imgURL={

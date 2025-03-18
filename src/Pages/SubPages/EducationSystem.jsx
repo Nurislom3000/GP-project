@@ -4,7 +4,7 @@ import SocialMediaIcons from '../../components/UI/SocialMediaIcons'
 import JustBlock from '../../components/UI/JustBlock'
 import Avatar from '../../components/UI/Avatar'
 
-const Info = () => {
+const EducationSystem = () => {
 	return (
 		<div className='mt-[72px]'>
 			<div className='flex flex-col items-center justify-start'>
@@ -51,20 +51,20 @@ const Info = () => {
 				</div>
 
 				<JustBlock
-					videoLink='/Videos/education_system.mp4'
+					videoLink='https://www.youtube.com/embed/_totk4S0wkk?si=aDAjoelPBQsK089E'
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>
 				<div className='w-full h-1 mt-[100px]'></div>
 				<JustBlock
 					isRight={true}
-					videoLink='/public/Videos/education_system2.mp4'
+					videoLink='https://www.youtube.com/embed/I8C4Wj_dHv4?si=TX-Lz_Orkko4q22Q'
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>
 				<div className='w-full h-1 mt-[100px]'></div>
 				<JustBlock
-					videoLink='/public/Videos/education_system.MOV'
+					videoLink='https://www.youtube.com/embed/AOJ-LOqzz-I'
 					title='Hello everyone'
 					text='Black-and-white photography is a timeless art form that transcends trends and technology. By stripping away color, this medium emphasizes composition, texture, and emotion, creating images that are both powerful and evocative.'
 				/>
@@ -73,4 +73,4 @@ const Info = () => {
 	)
 }
 
-export default Info
+export default EducationSystem
