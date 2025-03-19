@@ -32,20 +32,8 @@ const EducationSystem = () => {
 					/>
 				</div>
 
-				<div className='w-[1040px] mt-10 font-paprica'>
-					<p className='text-body'>
-						Black-and-white photography is a timeless art form that transcends
-						trends and technology. By stripping away color, this medium
-						emphasizes composition, texture, and emotion, creating images that
-						are both powerful and evocative.
-					</p>
-					<br />
-					<br />
-					<div className='text-body flex justify-end border-l-2 border-gray-500 pl-5'>
-						Whether you're a beginner or a seasoned photographer, exploring
-						black-and-white photography can transform how you see the world
-						through your lens.
-					</div>
+				<div className='mt-10 font-paprica flex justify-center text-[50px] text-center'>
+					Here students are talking about the education system in general
 					<br />
 					<br />
 				</div>
