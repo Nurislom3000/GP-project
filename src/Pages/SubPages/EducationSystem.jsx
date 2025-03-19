@@ -27,7 +27,7 @@ const EducationSystem = () => {
 				<div className='w-[1716px] h-[660px] mt-8 overflow-hidden object-cover'>
 					<img
 						className='w-full rounded-xl'
-						src='https://cdn.vysokeskoly.cz/czech-universities/uploads/2023/06/stack-books-with-laptop-wooden-table-kopie.jpg'
+						src='https://images.squarespace-cdn.com/content/v1/5b65d763fcf7fd7d0c65108e/1619393744252-Y9NAJNM8R1CGMIMGSIRH/Fixing+the+American+public+school+system.jpg?format=1000w'
 						alt='#'
 					/>
 				</div>

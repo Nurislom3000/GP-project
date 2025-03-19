@@ -15,7 +15,7 @@ const ImprovementOfSchools = () => {
 					</div>
 					<div className='flex justify-center mt-[24px]'>
 						<div className='text-primary-medium'>
-							The Education System (New Regulations and Control)
+							The Improvement in Education System Throughout the Years
 						</div>
 					</div>
 					<div className='h-44px bg-[#f4f4f4] text-[#757575] px-3 py-[10px] rounded-xl flex justify-between items-center mt-10'>
@@ -27,25 +27,14 @@ const ImprovementOfSchools = () => {
 				<div className='w-[1716px] h-[660px] mt-8 overflow-hidden object-cover'>
 					<img
 						className='w-full rounded-xl'
-						src='https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/4ee63f8e-b2d1-453f-a771-1bcce9cc3738/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_showcas_2.jpg'
+						src='https://blog.triaster.co.uk/hs-fs/hubfs/images/blog/ContinuousImprovement.jpg?width=690&height=500&name=ContinuousImprovement.jpg'
 						alt='#'
 					/>
 				</div>
 
-				<div className='w-[1040px] mt-10 font-paprica'>
-					<p className='text-body'>
-						Black-and-white photography is a timeless art form that transcends
-						trends and technology. By stripping away color, this medium
-						emphasizes composition, texture, and emotion, creating images that
-						are both powerful and evocative.
-					</p>
-					<br />
-					<br />
-					<div className='text-body flex justify-end border-l-2 border-gray-500 pl-5'>
-						Whether you're a beginner or a seasoned photographer, exploring
-						black-and-white photography can transform how you see the world
-						through your lens.
-					</div>
+				<div className='mt-10 font-paprica flex justify-center text-[50px] text-center'>
+					Students are talking about improvements in education system in recent
+					years
 					<br />
 					<br />
 				</div>

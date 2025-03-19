@@ -15,7 +15,7 @@ const UnivercityChoice = () => {
 					</div>
 					<div className='flex justify-center mt-[24px]'>
 						<div className='text-primary-medium'>
-							The Education System (New Regulations and Control)
+							The University Choices in Future (For 10th/11th Year Students)
 						</div>
 					</div>
 					<div className='h-44px bg-[#f4f4f4] text-[#757575] px-3 py-[10px] rounded-xl flex justify-between items-center mt-10'>
@@ -27,25 +27,13 @@ const UnivercityChoice = () => {
 				<div className='w-[1716px] h-[660px] mt-8 overflow-hidden object-cover'>
 					<img
 						className='w-full rounded-xl'
-						src='https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/4ee63f8e-b2d1-453f-a771-1bcce9cc3738/Leonardo_Phoenix_10_A_vibrant_and_dynamic_illustration_showcas_2.jpg'
+						src='https://cdn.leonardo.ai/users/19013d48-a883-4b72-ac37-57e19a2d89b4/generations/a87680e7-d063-484e-814a-3768b184040c/Leonardo_Phoenix_10_A_whimsical_illustration_of_a_person_stand_2.jpg'
 						alt='#'
 					/>
 				</div>
 
-				<div className='w-[1040px] mt-10 font-paprica'>
-					<p className='text-body'>
-						Black-and-white photography is a timeless art form that transcends
-						trends and technology. By stripping away color, this medium
-						emphasizes composition, texture, and emotion, creating images that
-						are both powerful and evocative.
-					</p>
-					<br />
-					<br />
-					<div className='text-body flex justify-end border-l-2 border-gray-500 pl-5'>
-						Whether you're a beginner or a seasoned photographer, exploring
-						black-and-white photography can transform how you see the world
-						through your lens.
-					</div>
+				<div className='mt-10 font-paprica flex justify-center text-[50px] text-center'>
+					Here students are talking about their thoughts about their future
 					<br />
 					<br />
 				</div>
