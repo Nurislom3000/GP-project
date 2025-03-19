@@ -30,7 +30,7 @@ const Footer = () => {
 						Blog Template
 					</h5>
 				</NavLink>
-				<Avatar src={avatar} name='Amna' />
+				<Avatar src={avatar} name='Nurislom' />
 			</div>
 
 			<div className='mt-[32px] w-full h-[1px] bg-[#a0a0a0] opacity-50'></div>

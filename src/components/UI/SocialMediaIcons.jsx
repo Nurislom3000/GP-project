@@ -10,22 +10,37 @@ import {
 const SocialMediaIcons = () => {
 	return (
 		<nav className='flex gap-[16px]'>
-			<a href='#'>
+			<a
+				target='blank'
+				href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+			>
 				<Instagram />
 			</a>
-			<a href='#'>
+			<a
+				target='blank'
+				href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+			>
 				{' '}
 				<X />
 			</a>
-			<a href='#'>
+			<a
+				target='blank'
+				href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+			>
 				{' '}
 				<LinkedIn />
 			</a>
-			<a href='#'>
+			<a
+				target='blank'
+				href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+			>
 				{' '}
 				<Facebook />
 			</a>
-			<a href='#'>
+			<a
+				target='blank'
+				href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+			>
 				{' '}
 				<Youtube />
 			</a>

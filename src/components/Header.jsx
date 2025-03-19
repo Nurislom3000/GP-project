@@ -11,10 +11,27 @@ const Header = () => {
 				<h5 className='font-bold text-[20px] text-[#212121]'>Blog Template</h5>
 			</NavLink>
 			<nav className='flex gap-[32px] text-[#212121]'>
-				<NavLink to='/'>Home</NavLink>
-				<NavLink to='/info'>Blog</NavLink>
-				<NavLink to='/'>Single Post</NavLink>
-				<NavLink to='/'>Other Pages</NavLink>
+				<a
+					target='blank'
+					href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+				>
+					Nurislom
+				</a>
+				<a
+					target='blank'
+					href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+				>
+					Iarik
+				</a>
+				<a
+					target='blank'
+					href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'
+				>
+					Robiya
+				</a>
+				<a href='https://www.youtube.com/channel/UCk9VATWD_9fAW0611S89OgQ'>
+					Afruza
+				</a>
 			</nav>
 		</div>
 	)
